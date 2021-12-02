@@ -1,5 +1,2 @@
 Primera linea de memoria
 Segunda linea de memoria
-Tercera linea de memoria
-Cuarta linea de la memoria
-Quinta linea de la memoria

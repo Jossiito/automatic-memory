@@ -1,5 +1,2 @@
 Primera linea atomatica
 Segunda linea atomatica
-Tercera linea atomatica
-Cuarta linea automatica
-Quinta linea automatica
